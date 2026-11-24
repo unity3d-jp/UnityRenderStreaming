@@ -21,7 +21,7 @@
   "devDependencies": {
     "@types/jest": "^24.0.12",
     "jest": "^24.8.0",
-    "newman": "^4.4.1",
+    "newman": "^6.2.3",
     "pkg": "^4.4.0",
     "ts-jest": "^24.0.2",
     "ts-node": "^8.1.0",
